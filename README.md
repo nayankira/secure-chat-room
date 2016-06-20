@@ -45,5 +45,7 @@ The functionalities involved in this project are:
 10. quit from the application 
 11. automatically quit from the application when facing abrupt disconnection 
 
-
+The application is executable as follows:
+java -jar chatserver.jar [-p port]
+java -jar chatclient.jar hostname [-p port]
 
