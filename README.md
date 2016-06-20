@@ -44,6 +44,7 @@ The functionalities involved in this project are:
 9. the empty rooms will be deleted automatically
 10. quit from the application 
 11. automatically quit from the application when facing abrupt disconnection 
+12.the owner of a room can block another user for a period of time
 
 The application is executable as follows:
 java -jar chatserver.jar [-p port]
